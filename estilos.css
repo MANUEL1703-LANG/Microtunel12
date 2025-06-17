@@ -74,7 +74,7 @@ img {
 body {
    background: linear-gradient( rgba(5, 7, 12, 0.75),
      rgba(5, 7, 12, 0.75)),
-      url(imagenes/fondo.jfif) no-repeat center center fixed;
+      url(fondo.jfif) no-repeat center center fixed;
      background-size: cover;
     background-size: cover;
     background-attachment: fixed;
